@@ -18,7 +18,7 @@ This project aims to:
 - **Business Intelligence**: Create reporting and analytics capabilities for informed decision-making
 - **Real-world Scenarios**: Apply ERP concepts to practical business situations
 
----
+-----
 
 ## 📋 Key Features
 
